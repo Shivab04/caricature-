@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+output/
+# student photos are personal data - keep them out of git
+examples/photos/*
+!examples/photos/.gitkeep
